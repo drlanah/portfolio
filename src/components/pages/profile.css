@@ -1,0 +1,43 @@
+.title {
+  font-size: 40px;
+  color: black;
+  font-family: "Nanum Gothic", sans-serif;
+}
+
+.mains {
+  margin: 30px 25px 10px 25px;
+}
+
+.profileimage {
+  margin-top: 20px;
+}
+
+.lana {
+  width: 250px;
+}
+
+.li {
+  margin-bottom: 20px;
+}
+
+.container {
+  font-family: "Baloo Tammudu 2", cursive;
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  flex-wrap: row;
+}
+
+.logo {
+  width: 70px;
+  display: flex;
+  flex-wrap: row;
+}
+
+ul {
+  list-style-type: square;
+  font-size: 20px;
+  justify-content: left;
+}

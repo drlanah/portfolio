@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "image": "https://nata-stelmakh.github.io/PawsCity/images/index/petfriendly1.jpg",
+    "title": "Paw City",
+    "description": "With life in “paws” during the pandemic, aspiring dog owners need a one tap app to find the right pet-related resources.",
+    "link": "https://github.com/nata-stelmakh/PawsCity"
+  },
+  {
+    "id": "2",
+    "image": "https://github.com/drlanah/hw-6/raw/master/assets/weather.gif",
+    "title": "Weather App",
+    "description": "Simple weather application, where user inputs a city, and receives current weather data with the temperature, humidity, wind speed, and UV index",
+    "link": "https://github.com/drlanah/hw-6"
+  },
+  {
+    "id": "3",
+    "image": "https://github.com/drlanah/notes/raw/master/assets/notes.gif",
+    "title": "Note Taker",
+    "description": "Note-taking app that allows a user to write, save, and delete notes, to keep track of thoughts and tasks that need to be completed.",
+    "link": "https://github.com/drlanah/notes"
+  },
+  {
+    "id": "4",
+    "image": "https://img.freepik.com/free-photo/business-budget-chart-eyeglasses-laptop-with-spiral-notepad-pen-against-blue-background_23-2148178577.jpg?size=626&ext=jpg",
+    "title": "Budget Tracker",
+    "description": "Online/offline budget tracking app allows user to input budget data in offline settings.",
+    "link": "https://github.com/drlanah/budget-tracker"
+  },
+  {
+    "id": "5",
+    "image": "https://github.com/drlanah/react-search/raw/master/assets/books.gif",
+    "title": "Google Book Search",
+    "description": "React-based Google books search app allows user to search books from a database, and save or delete favorited titles.",
+    "link": "https://github.com/drlanah/react-search"
+  },
+  {
+    "id": "6",
+    "image": "https://img.freepik.com/free-photo/set-sports-attributes_23-2147778577.jpg?size=626&ext=jpg",
+    "title": "Fitness Tracker",
+    "description": "Fitness tracking app to track exercise activity.",
+    "link": "https://github.com/drlanah/fitness"
+  }
+]
