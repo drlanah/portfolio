@@ -17,7 +17,7 @@
 
 - React-based Portfolio
 
-- [Heroku]()
+- [Heroku](https://drlanah.herokuapp.com/)
 - [GitHub](https://github.com/drlanah/portfolio)
 
 ### License
